@@ -1,0 +1,29 @@
+
+
+.container-flex {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 2em;
+}
+
+.card {
+  background-color: lightgrey;
+  width: 100px;
+  height: 175px;
+  border: 2px solid;
+  padding: 25px;
+  margin: 25px;
+}
+
+/* .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.card img {
+  width:100%;
+}
+
+img:hover{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+} */
